@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    .container {
+        text-align: center;
+        width: 50%;
+        margin-left: 25%;
+        margin-top: 11.5%;
+        .content{
+            h1{
+                color: azure;
+            }
+            p{
+                color: wheat;
+            }
+        }
+    }
+}
